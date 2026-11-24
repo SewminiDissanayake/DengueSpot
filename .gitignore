@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ---- DengueSpot ----
+.env
+data/*
+!data/.gitkeep
+*.pt
+*.onnx
+node_modules/
